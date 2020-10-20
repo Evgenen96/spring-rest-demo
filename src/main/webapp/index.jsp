@@ -14,5 +14,7 @@
 <h2>Spring REST Template</h2>
 <hr>
 <a href="/demo/hello">Hello</a>
+<hr>
+<a href="/api/students">Get All Students</a>
 </body>
 </html>
